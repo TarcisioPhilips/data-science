@@ -17,3 +17,6 @@
   - Construção dos gráficos utilizando [plotly](https://plotly.com/) para visualização dos dados
   - Conclusão e proposta de próximos passos.
   
+## **Problems**
+
+  - Exercícios resolvidos do Hackerrank usando python 
